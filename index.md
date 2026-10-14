@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Portfolio
+---
+
 # Welcome to My Portfolio
 
 Ryan Johns
